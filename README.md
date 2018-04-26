@@ -8,3 +8,6 @@ gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
 
 ## Running in development
 `gatsby develop`
+
+
+https://www.gatsbyjs.org/tutorial/part-four/
