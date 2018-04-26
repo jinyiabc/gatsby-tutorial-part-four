@@ -5,24 +5,24 @@
       "jsonName": "dev-404-page.json",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "D:/temp/tutorial-part-four/.cache/dev-404-page.js",
+      "component": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "D:/temp/tutorial-part-four/.cache/dev-404-page.js",
+      "componentPath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "adff4e59ce8de76da9418fd0fbb6584d",
+        "contentDigest": "322c9b39aeab875f7d14fb5991368ec6",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "D:/temp/tutorial-part-four/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -34,7 +34,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "D:/temp/tutorial-part-four/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -51,13 +51,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "967c6017d40314dfdf4e0808285c8160",
+        "contentDigest": "675ac1b06e870971de2b55e20aee4464",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-page-creator": {
-      "resolve": "D:/temp/tutorial-part-four/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "resolve": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "id": "Plugin component-page-creator",
       "name": "component-page-creator",
       "version": "1.0.0",
@@ -69,7 +69,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "D:/temp/tutorial-part-four/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "pluginFilepath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "packageJson": {
         "name": "component-page-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
@@ -90,13 +90,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "877b90bfbe5580041aa3333e97ab2acc",
+        "contentDigest": "46cfb4d6c62e6a80ace9f2451e81d255",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "D:/temp/tutorial-part-four/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
@@ -108,7 +108,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "D:/temp/tutorial-part-four/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -129,13 +129,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c61bab7a37e63a7c1c6287a18adca669",
+        "contentDigest": "4d77585212aeb4c699061daadc5d908a",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "D:/temp/tutorial-part-four/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -148,7 +148,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "D:/temp/tutorial-part-four/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -165,13 +165,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e0ff4e6e75e8986c1314b8a205888ff8",
+        "contentDigest": "7d5f9ec7fc23a854ba4c220c580f1644",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "D:/temp/tutorial-part-four/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -183,7 +183,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "D:/temp/tutorial-part-four/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -200,13 +200,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "70df9b9fb386c38e9c63342f6b05f68f",
+        "contentDigest": "881b8fb55dbed7523075b3250b7c9f9d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "D:/temp/tutorial-part-four/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -219,7 +219,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "D:/temp/tutorial-part-four/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -236,13 +236,254 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c7947eed72bdd35f863dd32f85e6a571",
+        "contentDigest": "632fe2a8f07cba3980cc936b649d4f3c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.34",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "src",
+        "path": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.34",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.250"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7bb69814a2b0dc7efdde283b4729fd80",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.40",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.40",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "graphql-type-json",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e2964800ecf1b37972ddc6bceadce78f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-glamor": {
-      "resolve": "D:/temp/tutorial-part-four/node_modules/gatsby-plugin-glamor",
+      "resolve": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/node_modules/gatsby-plugin-glamor",
       "id": "Plugin gatsby-plugin-glamor",
       "name": "gatsby-plugin-glamor",
       "version": "1.6.13",
@@ -259,7 +500,7 @@
       "ssrAPIs": [
         "replaceRenderer"
       ],
-      "pluginFilepath": "D:/temp/tutorial-part-four/node_modules/gatsby-plugin-glamor",
+      "pluginFilepath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/node_modules/gatsby-plugin-glamor",
       "packageJson": {
         "name": "gatsby-plugin-glamor",
         "description": "Gatsby plugin to add support for Glamor",
@@ -307,13 +548,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "2940123f145189588551b20ad452b448",
+        "contentDigest": "81dbf87bb40cb485f6912e094e141fa0",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-typography": {
-      "resolve": "D:/temp/tutorial-part-four/node_modules/gatsby-plugin-typography",
+      "resolve": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/node_modules/gatsby-plugin-typography",
       "id": "Plugin gatsby-plugin-typography",
       "name": "gatsby-plugin-typography",
       "version": "1.7.18",
@@ -330,7 +571,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "D:/temp/tutorial-part-four/node_modules/gatsby-plugin-typography",
+      "pluginFilepath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/node_modules/gatsby-plugin-typography",
       "packageJson": {
         "name": "gatsby-plugin-typography",
         "description": "Gatsby plugin to setup server rendering of Typography.js' CSS",
@@ -379,23 +620,26 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e6e3a234e725046296a219c73591625b",
+        "contentDigest": "a0bbd44001e42fb651a1e1bcdf17b5b2",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "D:/temp/tutorial-part-four",
+      "resolve": "/Users/jinyi/Desktop/gatsby-tutorial-part-four",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "5044a1b15ae0355798fec08b3fca52f3",
+      "version": "777ec51f63feff85d848c1c9e5db09be",
       "pluginOptions": {
         "plugins": []
       },
-      "nodeAPIs": [],
+      "nodeAPIs": [
+        "onCreateNode",
+        "createPages"
+      ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "D:/temp/tutorial-part-four",
+      "pluginFilepath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four",
       "packageJson": {
         "name": "gatsby-starter-hello-world",
         "description": "Gatsby hello world starter",
@@ -418,6 +662,14 @@
             "version": "^1.7.18"
           },
           {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.34"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.40"
+          },
+          {
             "name": "glamorous",
             "version": "^4.12.4"
           },
@@ -434,24 +686,706 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "df1cd863c9b7a1d4875d8d5ec050f740",
+        "contentDigest": "2df26297871c414b62d572710a7e7cef",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Site": {
-      "siteMetadata": {},
+      "siteMetadata": {
+        "title": "Blah Blah Fake Title"
+      },
       "port": "8000",
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-04-26T09:32:51.119Z",
+      "buildTime": "2018-04-26T16:33:38.598Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "770418f4e41b058c04b6650e6dd7c95f",
+        "contentDigest": "c1df5d09f329c6485aa2a8f497c38121",
         "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/ absPath of file": {
+      "id": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/ absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d7793c5493c666b27f7b477630225a65",
+        "type": "Directory",
+        "description": "Directory \"src\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/",
+      "relativePath": "",
+      "extension": "",
+      "size": 192,
+      "prettySize": "192 B",
+      "modifiedTime": "2018-04-26T16:30:10.682Z",
+      "accessTime": "2018-04-26T16:33:43.671Z",
+      "changeTime": "2018-04-26T16:30:10.682Z",
+      "birthTime": "2018-04-26T12:55:48.795Z",
+      "root": "/",
+      "dir": "/Users/jinyi/Desktop/gatsby-tutorial-part-four",
+      "base": "src",
+      "ext": "",
+      "name": "src",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 6,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8601801717,
+      "blocks": 0,
+      "atimeMs": 1524760423671.094,
+      "mtimeMs": 1524760210682.0142,
+      "ctimeMs": 1524760210682.0142,
+      "birthtimeMs": 1524747348794.8755,
+      "atime": "2018-04-26T16:33:43.671Z",
+      "mtime": "2018-04-26T16:30:10.682Z",
+      "ctime": "2018-04-26T16:30:10.682Z",
+      "birthtime": "2018-04-26T12:55:48.795Z"
+    },
+    "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/layouts absPath of file": {
+      "id": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/layouts absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4a60375e1673162e30ba6495856cc0f2",
+        "type": "Directory",
+        "description": "Directory \"src/layouts\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/layouts",
+      "relativePath": "layouts",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-04-26T12:55:48.795Z",
+      "accessTime": "2018-04-26T16:33:43.674Z",
+      "changeTime": "2018-04-26T12:55:48.795Z",
+      "birthTime": "2018-04-26T12:55:48.795Z",
+      "root": "/",
+      "dir": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src",
+      "base": "layouts",
+      "ext": "",
+      "name": "layouts",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8601801718,
+      "blocks": 0,
+      "atimeMs": 1524760423674.3276,
+      "mtimeMs": 1524747348795.2776,
+      "ctimeMs": 1524747348795.2776,
+      "birthtimeMs": 1524747348794.9966,
+      "atime": "2018-04-26T16:33:43.674Z",
+      "mtime": "2018-04-26T12:55:48.795Z",
+      "ctime": "2018-04-26T12:55:48.795Z",
+      "birthtime": "2018-04-26T12:55:48.795Z"
+    },
+    "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages absPath of file": {
+      "id": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "665fd74477d3fac0553d589c7cfd199b",
+        "type": "Directory",
+        "description": "Directory \"src/pages\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages",
+      "relativePath": "pages",
+      "extension": "",
+      "size": 224,
+      "prettySize": "224 B",
+      "modifiedTime": "2018-04-26T15:48:33.818Z",
+      "accessTime": "2018-04-26T16:33:43.674Z",
+      "changeTime": "2018-04-26T15:48:33.818Z",
+      "birthTime": "2018-04-26T12:55:48.796Z",
+      "root": "/",
+      "dir": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 7,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8601801720,
+      "blocks": 0,
+      "atimeMs": 1524760423674.3975,
+      "mtimeMs": 1524757713817.7622,
+      "ctimeMs": 1524757713817.7622,
+      "birthtimeMs": 1524747348795.555,
+      "atime": "2018-04-26T16:33:43.674Z",
+      "mtime": "2018-04-26T15:48:33.818Z",
+      "ctime": "2018-04-26T15:48:33.818Z",
+      "birthtime": "2018-04-26T12:55:48.796Z"
+    },
+    "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/templates absPath of file": {
+      "id": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/templates absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e44f6c6e804fd68693a652fe375c781f",
+        "type": "Directory",
+        "description": "Directory \"src/templates\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/templates",
+      "relativePath": "templates",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-04-26T16:30:30.047Z",
+      "accessTime": "2018-04-26T16:33:43.674Z",
+      "changeTime": "2018-04-26T16:30:30.047Z",
+      "birthTime": "2018-04-26T16:30:10.682Z",
+      "root": "/",
+      "dir": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src",
+      "base": "templates",
+      "ext": "",
+      "name": "templates",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8601841071,
+      "blocks": 0,
+      "atimeMs": 1524760423674.3442,
+      "mtimeMs": 1524760230046.6477,
+      "ctimeMs": 1524760230046.6477,
+      "birthtimeMs": 1524760210681.987,
+      "atime": "2018-04-26T16:33:43.674Z",
+      "mtime": "2018-04-26T16:30:30.047Z",
+      "ctime": "2018-04-26T16:30:30.047Z",
+      "birthtime": "2018-04-26T16:30:10.682Z"
+    },
+    "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/utils absPath of file": {
+      "id": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/utils absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0f11740e198763f9fd528d711bfb50c3",
+        "type": "Directory",
+        "description": "Directory \"src/utils\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/utils",
+      "relativePath": "utils",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-04-26T12:55:48.797Z",
+      "accessTime": "2018-04-26T16:33:43.674Z",
+      "changeTime": "2018-04-26T12:55:48.797Z",
+      "birthTime": "2018-04-26T12:55:48.796Z",
+      "root": "/",
+      "dir": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src",
+      "base": "utils",
+      "ext": "",
+      "name": "utils",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8601801723,
+      "blocks": 0,
+      "atimeMs": 1524760423674.4058,
+      "mtimeMs": 1524747348796.5967,
+      "ctimeMs": 1524747348796.5967,
+      "birthtimeMs": 1524747348796.4155,
+      "atime": "2018-04-26T16:33:43.674Z",
+      "mtime": "2018-04-26T12:55:48.797Z",
+      "ctime": "2018-04-26T12:55:48.797Z",
+      "birthtime": "2018-04-26T12:55:48.796Z"
+    },
+    "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/layouts/index.js absPath of file": {
+      "id": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/layouts/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d0880a61d897bcb781dbdc91d7f4c692",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/layouts/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/layouts/index.js",
+      "relativePath": "layouts/index.js",
+      "extension": "js",
+      "size": 720,
+      "prettySize": "720 B",
+      "modifiedTime": "2018-04-26T13:09:52.779Z",
+      "accessTime": "2018-04-26T16:29:27.130Z",
+      "changeTime": "2018-04-26T13:09:52.779Z",
+      "birthTime": "2018-04-26T12:55:48.795Z",
+      "root": "/",
+      "dir": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/layouts",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "layouts",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8601801719,
+      "blocks": 8,
+      "atimeMs": 1524760167130.1577,
+      "mtimeMs": 1524748192779.21,
+      "ctimeMs": 1524748192779.21,
+      "birthtimeMs": 1524747348795.2666,
+      "atime": "2018-04-26T16:29:27.130Z",
+      "mtime": "2018-04-26T13:09:52.779Z",
+      "ctime": "2018-04-26T13:09:52.779Z",
+      "birthtime": "2018-04-26T12:55:48.795Z"
+    },
+    "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/templates/blog-post.js absPath of file": {
+      "id": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/templates/blog-post.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b9b61f223b80ce45f0f0e08679990357",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/templates/blog-post.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/templates/blog-post.js",
+      "relativePath": "templates/blog-post.js",
+      "extension": "js",
+      "size": 428,
+      "prettySize": "428 B",
+      "modifiedTime": "2018-04-26T16:37:25.908Z",
+      "accessTime": "2018-04-26T16:37:26.116Z",
+      "changeTime": "2018-04-26T16:37:25.908Z",
+      "birthTime": "2018-04-26T16:30:30.047Z",
+      "root": "/",
+      "dir": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/templates",
+      "base": "blog-post.js",
+      "ext": ".js",
+      "name": "blog-post",
+      "relativeDirectory": "templates",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8601841077,
+      "blocks": 8,
+      "atimeMs": 1524760646115.6147,
+      "mtimeMs": 1524760645907.5366,
+      "ctimeMs": 1524760645907.5366,
+      "birthtimeMs": 1524760230046.6245,
+      "atime": "2018-04-26T16:37:26.116Z",
+      "mtime": "2018-04-26T16:37:25.908Z",
+      "ctime": "2018-04-26T16:37:25.908Z",
+      "birthtime": "2018-04-26T16:30:30.047Z"
+    },
+    "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/about.js absPath of file": {
+      "id": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/about.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1419de1d1061a5f9dff357472d673ab5",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/about.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/about.js",
+      "relativePath": "pages/about.js",
+      "extension": "js",
+      "size": 412,
+      "prettySize": "412 B",
+      "modifiedTime": "2018-04-26T13:11:53.171Z",
+      "accessTime": "2018-04-26T16:29:27.130Z",
+      "changeTime": "2018-04-26T13:11:53.171Z",
+      "birthTime": "2018-04-26T12:55:48.796Z",
+      "root": "/",
+      "dir": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages",
+      "base": "about.js",
+      "ext": ".js",
+      "name": "about",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8601801721,
+      "blocks": 8,
+      "atimeMs": 1524760167130.2998,
+      "mtimeMs": 1524748313170.6045,
+      "ctimeMs": 1524748313170.6045,
+      "birthtimeMs": 1524747348795.758,
+      "atime": "2018-04-26T16:29:27.130Z",
+      "mtime": "2018-04-26T13:11:53.171Z",
+      "ctime": "2018-04-26T13:11:53.171Z",
+      "birthtime": "2018-04-26T12:55:48.796Z"
+    },
+    "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/index.js absPath of file": {
+      "id": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4b4216a692a637c6ca610984ce8c4c4b",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/index.js",
+      "relativePath": "pages/index.js",
+      "extension": "js",
+      "size": 1274,
+      "prettySize": "1.27 kB",
+      "modifiedTime": "2018-04-26T16:42:24.912Z",
+      "accessTime": "2018-04-26T16:42:25.213Z",
+      "changeTime": "2018-04-26T16:42:24.912Z",
+      "birthTime": "2018-04-26T12:55:48.796Z",
+      "root": "/",
+      "dir": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8601801722,
+      "blocks": 8,
+      "atimeMs": 1524760945212.583,
+      "mtimeMs": 1524760944911.6704,
+      "ctimeMs": 1524760944911.6704,
+      "birthtimeMs": 1524747348796.096,
+      "atime": "2018-04-26T16:42:25.213Z",
+      "mtime": "2018-04-26T16:42:24.912Z",
+      "ctime": "2018-04-26T16:42:24.912Z",
+      "birthtime": "2018-04-26T12:55:48.796Z"
+    },
+    "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/pandas-and-bananas.md absPath of file": {
+      "id": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/pandas-and-bananas.md absPath of file",
+      "children": [
+        "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/pandas-and-bananas.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3054933feadb2eef7413c984437696a9",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/pandas-and-bananas.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/pandas-and-bananas.md",
+      "relativePath": "pages/pandas-and-bananas.md",
+      "extension": "md",
+      "size": 289,
+      "prettySize": "289 B",
+      "modifiedTime": "2018-04-26T15:48:53.603Z",
+      "accessTime": "2018-04-26T16:29:20.971Z",
+      "changeTime": "2018-04-26T15:48:53.603Z",
+      "birthTime": "2018-04-26T15:48:33.818Z",
+      "root": "/",
+      "dir": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages",
+      "base": "pandas-and-bananas.md",
+      "ext": ".md",
+      "name": "pandas-and-bananas",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8601840074,
+      "blocks": 8,
+      "atimeMs": 1524760160971.095,
+      "mtimeMs": 1524757733602.911,
+      "ctimeMs": 1524757733602.911,
+      "birthtimeMs": 1524757713817.7288,
+      "atime": "2018-04-26T16:29:20.971Z",
+      "mtime": "2018-04-26T15:48:53.603Z",
+      "ctime": "2018-04-26T15:48:53.603Z",
+      "birthtime": "2018-04-26T15:48:33.818Z"
+    },
+    "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/my-files.js absPath of file": {
+      "id": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/my-files.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e84f916f26769a686c0dd76aaa0616b8",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/my-files.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/my-files.js",
+      "relativePath": "pages/my-files.js",
+      "extension": "js",
+      "size": 1035,
+      "prettySize": "1.03 kB",
+      "modifiedTime": "2018-04-26T14:55:14.007Z",
+      "accessTime": "2018-04-26T16:29:27.130Z",
+      "changeTime": "2018-04-26T14:55:14.007Z",
+      "birthTime": "2018-04-26T14:51:29.261Z",
+      "root": "/",
+      "dir": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages",
+      "base": "my-files.js",
+      "ext": ".js",
+      "name": "my-files",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8601836805,
+      "blocks": 8,
+      "atimeMs": 1524760167130.3135,
+      "mtimeMs": 1524754514007.3772,
+      "ctimeMs": 1524754514007.3772,
+      "birthtimeMs": 1524754289260.6787,
+      "atime": "2018-04-26T16:29:27.130Z",
+      "mtime": "2018-04-26T14:55:14.007Z",
+      "ctime": "2018-04-26T14:55:14.007Z",
+      "birthtime": "2018-04-26T14:51:29.261Z"
+    },
+    "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/utils/typography.js absPath of file": {
+      "id": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/utils/typography.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ddce97e89d4c6e4a01f0403221a1aac3",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/utils/typography.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/utils/typography.js",
+      "relativePath": "utils/typography.js",
+      "extension": "js",
+      "size": 168,
+      "prettySize": "168 B",
+      "modifiedTime": "2018-04-26T12:55:48.797Z",
+      "accessTime": "2018-04-26T16:29:27.131Z",
+      "changeTime": "2018-04-26T12:55:48.797Z",
+      "birthTime": "2018-04-26T12:55:48.797Z",
+      "root": "/",
+      "dir": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/utils",
+      "base": "typography.js",
+      "ext": ".js",
+      "name": "typography",
+      "relativeDirectory": "utils",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8601801724,
+      "blocks": 8,
+      "atimeMs": 1524760167130.5447,
+      "mtimeMs": 1524747348796.6555,
+      "ctimeMs": 1524747348796.6555,
+      "birthtimeMs": 1524747348796.5876,
+      "atime": "2018-04-26T16:29:27.131Z",
+      "mtime": "2018-04-26T12:55:48.797Z",
+      "ctime": "2018-04-26T12:55:48.797Z",
+      "birthtime": "2018-04-26T12:55:48.797Z"
+    },
+    "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/sweet-pandas-eating-sweets.md absPath of file": {
+      "id": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/sweet-pandas-eating-sweets.md absPath of file",
+      "children": [
+        "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/sweet-pandas-eating-sweets.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8054470c6fc44807d4ee10027a347b61",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/sweet-pandas-eating-sweets.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/sweet-pandas-eating-sweets.md",
+      "relativePath": "pages/sweet-pandas-eating-sweets.md",
+      "extension": "md",
+      "size": 255,
+      "prettySize": "255 B",
+      "modifiedTime": "2018-04-26T15:48:19.148Z",
+      "accessTime": "2018-04-26T16:29:20.971Z",
+      "changeTime": "2018-04-26T15:48:19.148Z",
+      "birthTime": "2018-04-26T15:34:30.570Z",
+      "root": "/",
+      "dir": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages",
+      "base": "sweet-pandas-eating-sweets.md",
+      "ext": ".md",
+      "name": "sweet-pandas-eating-sweets",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8601837056,
+      "blocks": 8,
+      "atimeMs": 1524760160971.1465,
+      "mtimeMs": 1524757699148.2583,
+      "ctimeMs": 1524757699148.2583,
+      "birthtimeMs": 1524756870569.708,
+      "atime": "2018-04-26T16:29:20.971Z",
+      "mtime": "2018-04-26T15:48:19.148Z",
+      "ctime": "2018-04-26T15:48:19.148Z",
+      "birthtime": "2018-04-26T15:34:30.570Z"
+    },
+    "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/pandas-and-bananas.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/pandas-and-bananas.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/pandas-and-bananas.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: Pandas and Bananas\ndate: \"2017-08-21\"\n---\n\nDo Pandas eat bananas? Check out this short video that shows that yes! pandas do\nseem to really enjoy bananas!\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4SZl1r2O_bY\" frameborder=\"0\" allowfullscreen></iframe>\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "791768a2cc0e1c063dd9c9c7caac2dd7",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Pandas and Bananas",
+        "date": "2017-08-21",
+        "_PARENT": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/pandas-and-bananas.md absPath of file",
+        "parent": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/pandas-and-bananas.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/pandas-and-bananas.md",
+      "fields": {
+        "slug": "/pandas-and-bananas/"
+      }
+    },
+    "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/sweet-pandas-eating-sweets.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/sweet-pandas-eating-sweets.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/sweet-pandas-eating-sweets.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"Sweet Pandas Eating Sweets\"\ndate: \"2017-08-10\"\n---\n\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "8da63c1c17bcabaed9f2b18b42a6dde8",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Sweet Pandas Eating Sweets",
+        "date": "2017-08-10",
+        "_PARENT": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/sweet-pandas-eating-sweets.md absPath of file",
+        "parent": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/sweet-pandas-eating-sweets.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/sweet-pandas-eating-sweets.md",
+      "fields": {
+        "slug": "/sweet-pandas-eating-sweets/"
+      }
+    },
+    "SitePage /pandas-and-bananas/": {
+      "layout": "index",
+      "jsonName": "pandas-and-bananas.json",
+      "internalComponentName": "ComponentPandasAndBananas",
+      "path": "/pandas-and-bananas/",
+      "component": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/pandas-and-bananas/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/templates/blog-post.js",
+      "id": "SitePage /pandas-and-bananas/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0963d9f5e6a169fe4a7d14efd0a0a378",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /sweet-pandas-eating-sweets/": {
+      "layout": "index",
+      "jsonName": "sweet-pandas-eating-sweets.json",
+      "internalComponentName": "ComponentSweetPandasEatingSweets",
+      "path": "/sweet-pandas-eating-sweets/",
+      "component": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/sweet-pandas-eating-sweets/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/templates/blog-post.js",
+      "id": "SitePage /sweet-pandas-eating-sweets/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3679246db9eb6f2685e6450615f4e0af",
+        "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
     },
@@ -460,18 +1394,18 @@
       "jsonName": "about.json",
       "internalComponentName": "ComponentAbout",
       "path": "/about/",
-      "component": "D:/temp/tutorial-part-four/src/pages/about.js",
+      "component": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/about.js",
       "componentChunkName": "component---src-pages-about-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "D:/temp/tutorial-part-four/src/pages/about.js",
+      "componentPath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/about.js",
       "id": "SitePage /about/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cc16e4c5eb8304fb855ddbdd9ef48a17",
+        "contentDigest": "890a22d37da09752b4136ed636cb1f75",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -481,18 +1415,39 @@
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "D:/temp/tutorial-part-four/src/pages/index.js",
+      "component": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "D:/temp/tutorial-part-four/src/pages/index.js",
+      "componentPath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d3f0bd86214be447bfe7b649b70a132f",
+        "contentDigest": "0ee03dc15d25b41bc82f60a41793109f",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /my-files/": {
+      "layout": "index",
+      "jsonName": "my-files.json",
+      "internalComponentName": "ComponentMyFiles",
+      "path": "/my-files/",
+      "component": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/my-files.js",
+      "componentChunkName": "component---src-pages-my-files-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/my-files.js",
+      "id": "SitePage /my-files/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a714e18da1466ed3661fdc5a2bddda78",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -500,13 +1455,30 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "710fd906d8ed82dfd447127254188a61"
+    "PLUGINS_HASH": "901db168a38f227e55735790537579ce"
   },
   "componentDataDependencies": {
-    "nodes": {},
+    "nodes": {
+      "Site": [
+        "/about/",
+        "LAYOUT___index"
+      ],
+      "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/sweet-pandas-eating-sweets.md absPath of file >>> MarkdownRemark": [
+        "/sweet-pandas-eating-sweets/"
+      ],
+      "/Users/jinyi/Desktop/gatsby-tutorial-part-four/src/pages/pandas-and-bananas.md absPath of file >>> MarkdownRemark": [
+        "/pandas-and-bananas/"
+      ]
+    },
     "connections": {
       "SitePage": [
         "/dev-404-page/"
+      ],
+      "MarkdownRemark": [
+        "/"
+      ],
+      "File": [
+        "/my-files/"
       ]
     }
   }
